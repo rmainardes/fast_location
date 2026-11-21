@@ -165,8 +165,6 @@ repositórios falsos — sem rede e sem Hive.
 
 <!-- arraste aqui o demo.mp4 pelo editor do GitHub -->
 
-Vídeo completo e APK: [Release v1.0.0](https://github.com/<usuario>/fast_location/releases/tag/v1.0.0)
-
 Roteiro gravado: abertura animada → consulta por CEP (01001000) → CEP inexistente (99999999)
 → busca por endereço (SC / Blumenau / XV de Novembro) → histórico → traçar rota → consulta offline.
 
