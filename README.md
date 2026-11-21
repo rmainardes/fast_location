@@ -160,3 +160,16 @@ flutter test
 Cobrem o parse do modelo (inclusive `"erro": "true"`/`true` do ViaCEP), validação de entradas,
 fallback para o cache sem rede e o `HomeController` (loading, erro, resultados), usando
 repositórios falsos — sem rede e sem Hive.
+
+## Demonstração
+
+<!-- arraste aqui o demo.mp4 pelo editor do GitHub -->
+
+Vídeo completo e APK: [Release v1.0.0](https://github.com/<usuario>/fast_location/releases/tag/v1.0.0)
+
+Roteiro gravado: abertura animada → consulta por CEP (01001000) → CEP inexistente (99999999)
+→ busca por endereço (SC / Blumenau / XV de Novembro) → histórico → traçar rota → consulta offline.
+
+https://github.com/user-attachments/assets/73f9fca5-3bdb-40e5-884a-d62601757367
+
+
